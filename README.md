@@ -10,3 +10,4 @@ question for kevin:
 do you HAVE to encode categorical data before using it? are you able to use it raw
 
 
+ordinal encoding > label encdoing always???>
